@@ -1,3 +1,6 @@
 [submodule "testeback"]
 	path = testeback
 	url = https://github.com/marcelosilva7/testeback.git
+[submodule "testefront"]
+	path = testefront
+	url = https://github.com/marcelosilva7/testefront.git
